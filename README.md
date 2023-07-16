@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Henrique;i'm+15+years+old;i+from+brazil,+Sp;be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-    <a href="https://github.com/Heenrike">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Heenrike&show_icons=true&theme=transparent" />
+    <a href="https://github.com/Heenrikde">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=heenrike&show_icons=true&theme=transparent" />
     </a>
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" target="_blank">
         <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" />
