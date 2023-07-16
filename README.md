@@ -1,15 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Henrique;i'm+15+years+old;i+from+brazil,+Sp;be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-    <a href="https://github.com/Heenrikde">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Heenrike&show_icons=true&theme=transparent" />
-    </a>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" target="_blank">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" />
-    </a>
-    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px" />
+
+| <a href="https://github.com/Heenrike"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Heenrike&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px" />
     <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px" />
+
 </div>
+
+
 <div align="center">
     <br>
     <h3> Habilidade 💻
@@ -23,10 +24,12 @@
     </h3>
 </div>
 
+
 <div>
     <br>
     <br>
 </div>
+
 
 <div align="center">
     <h3> Atualmente estudando :no_mouth:
@@ -35,3 +38,4 @@
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     </h3>
 </div>
+
