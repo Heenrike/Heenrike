@@ -1,29 +1,37 @@
-<h1 align="center">Bem-vindo(a) ao meu perfil 🖥️<h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Pedro+Henrique;i'm+15+years+old;i+from+brazil,+Sp;be+welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/Marvin1423">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marvin1423&show_icons=true&theme=transparent"/>     </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/? username=Heenrike&layout=compact&langs_count=6&theme=transparent" target="_blank"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent"/></a>
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-
+    <a href="https://github.com/Heenrike">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Heenrike&show_icons=true&theme=transparent" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" target="_blank">
+        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heenrike&layout=compact&langs_count=6&theme=transparent" />
+    </a>
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px" />
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px" />
 </div>
-<div align="center" valign="top"><br>
- <p>Habilidades em ascensão</p>
-
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="45" width="45" src="https://cdn-icons-png.flaticon.com/512/536/536452.png">
- </div><br>
- 
 <div align="center">
-    <p>👇 contate-se comigo</p>
-   <a href="(https://www.linkedin.com/in/pedro-henrique-b833b4273/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="arthurmarvin1423@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+    <br>
+    <h3> Habilidade 💻
+        <br>
+        <br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <!-- Add more shields if needed -->
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </h3>
+</div>
 
- 
-  ![Snake animation](https://github.com/Marvin1423/Marvin1423/blob/output/github-contribution-grid-snake.svg)
+<div>
+    <br>
+    <br>
+</div>
 
+<div align="center">
+    <h3> Atualmente estudando :no_mouth:
+        <br>
+        <br>
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    </h3>
 </div>
